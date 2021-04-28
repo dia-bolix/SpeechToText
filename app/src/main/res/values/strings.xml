@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Voice To Text</string>
+    <string name="img_description">when clicked calls google api to record voice</string>
+    <string name="button_text">click on mic to record and display what you said </string>
+</resources>
